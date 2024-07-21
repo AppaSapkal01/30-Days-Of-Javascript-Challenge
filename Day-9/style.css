@@ -1,0 +1,13 @@
+.bg-cyan {
+    background-color: cyan;
+}
+
+.italicStyle {
+    font-style: italic;
+}
+
+.border {
+    border: 2px solid red;
+    padding: 5px;
+    border-radius: 12px;
+}
